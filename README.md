@@ -38,19 +38,6 @@ In this project, I have implemented an end-to-end data pipeline to collect, stor
 - **Expanded Data Sources**: Integrate additional data sources to provide more comprehensive insights to stakeholders.
 - **Enhanced Visualizations**: Add more interactive visualizations and predictive analytics to forecast trends based on historical data.
 
-## How to Use:
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/your-username/Data-Analysis-Project.git
-    ```
-2. Install necessary dependencies (Python, MySQL, Power BI Desktop):
-    ```bash
-    pip install -r requirements.txt
-    ```
-3. Set up the Google APIs and connect them to the Python script.
-4. Set up a local MySQL database and ensure the correct configuration to receive data.
-5. Open the Power BI Desktop file to view the visualizations.
-
 ---
 
 ## Contact Information
